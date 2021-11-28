@@ -1,0 +1,20 @@
+{
+  "name": "twitchonline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "Denny Sesay",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.64.4",
+    "webpack-cli": "^4.9.1"
+  },
+  "dependencies": {
+    "firebase": "^9.5.0",
+    "firebase-tools": "^9.23.0"
+  }
+}
